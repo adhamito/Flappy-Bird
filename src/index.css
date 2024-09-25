@@ -1,0 +1,7 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-lightblue {
+  background-color: #87ceeb; /* Light blue color */
+}
